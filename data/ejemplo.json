@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "fuente": "Open-Meteo Historical Weather API",
+    "endpoint": "https://archive-api.open-meteo.com/v1/archive",
+    "rango": "2022-01-01 a 2023-12-31",
+    "timezone": "America/Bogota"
+  },
+  "sedes": {
+    "FRATERNIDAD": {
+      "latitude": 6.2214413,
+      "longitude": -75.55185,
+      "generationtime_ms": 0.47397613525390625,
+      "utc_offset_seconds": -18000,
+      "timezone": "America/Bogota",
+      "timezone_abbreviation": "GMT-5",
+      "elevation": 1569.0,
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "°C",
+        "precipitation": "mm",
+        "rain": "mm"
+      },
+      "hourly": {
+        "time": [],
+        "temperature_2m": [],
+        "precipitation": [],
+        "rain": []
+        }
+    }
+  }
+}
